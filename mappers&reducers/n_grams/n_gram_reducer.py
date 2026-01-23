@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-"""A more advanced Reducer, using Python iterators and generators."""
 from itertools import groupby
 from operator import itemgetter
 import sys
