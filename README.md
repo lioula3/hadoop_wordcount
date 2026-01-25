@@ -36,7 +36,7 @@ The input text is the *Notebooks of Leonardo Da Vinci*, available from Project G
 
 🔗 https://www.gutenberg.org/ebooks/5000
 
-Download the text file and place it in:
+Download the text file and place it in input:
 
 ## Requirements
 
