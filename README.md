@@ -55,4 +55,4 @@ bin/hadoop jar path/to/hadoop-streaming-1.2.1.jar \
 -file path/to/project/reducers/reducer2.py
 
 ## Notes
-In this project, numbers were not removed during preprocessing. However, they could be excluded to retain only alphabetic words, which would improve the readability and interpretability of the results.
+In this project, numbers were not removed during preprocessing. However, they could be excluded to retain only alphabetic words, which would improve the readability and interpretability of the results. You can also test locally using the ./mappers_and_reducers/test.txt.
